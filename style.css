@@ -1,0 +1,35 @@
+body {
+  background-color:black;
+}
+button {
+  border-radius:15px;
+  background-color:black;
+  color:lime;
+  border-color:limegreen;
+  font-size:140%;
+  width:7em;
+}
+h1 {
+  text-align:center;
+  font-size:350%;
+  color:darkgoldenrod;
+}
+ul {
+  color: whitesmoke;
+  font-weight:bold;
+}
+.postscript{
+  font-family:cursive;
+}
+p{
+  color:white;
+  font-weight:bold;
+}
+h2{
+  color:White;
+}
+img{
+  float:left;  
+  clear:left;
+  border-radius:34px;
+}
